@@ -11,3 +11,4 @@
   * Optional password protection
   * multi-language support (EN, DE, BY)
   * LCARS-style UI
+  * unit tests and the likes
